@@ -12,7 +12,4 @@ xjsb
 
 want to revert
 
-function bugfix123
-
-Branch One Rebase
-Rebase Branch 2
+function bugfix12
